@@ -2,9 +2,14 @@
 <html>
 <body>
 <backgroundimage>http://nammakpsc.com/wp/wp-content/uploads/2015/03/health-care.jpg</backgroundimage>
-<h1>Suggestion</h1>
+<h1><b>HEALTH CARE</b><h1>
 <table>
-<b><i>Health Care</i></b>
+<tr>
+<th>Check</th>
+<th>Status</th>
+<th>Details</th>
+<th>Suggestion</th>
+</tr>
 <tr>
 <th><b>Page Title</b></th>
 <td><b><i>Health Care</i></b></td>
