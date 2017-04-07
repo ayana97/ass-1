@@ -11,9 +11,11 @@
 <th>Suggestion</th>
 </tr>
 <tr>
-<th><b>Page Title</b></th>
-<td><b><i>Health Care</i></b></td>
-<br></tr>
+<td>Page Title</td>
+<td>no</td>
+<td>The Page title length of your page is 71 characters. Most search engines will truncate Page title to 65 characters.</td>
+<td>The page title should limit to 65 character.</td>
+</tr>
 <tr>
 <th><b>Meta Description</b></th>
 <td>The meta description length of your page is 137 characters. Most search engines will truncate meta descriptions to 160 characters.<td>
