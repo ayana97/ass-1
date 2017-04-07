@@ -17,9 +17,11 @@
 <td>The page title should limit to 65 character.</td>
 </tr>
 <tr>
-<th><b>Meta Description</b></th>
-<td>The meta description length of your page is 137 characters. Most search engines will truncate meta descriptions to 160 characters.<td>
-<br></tr>
+<th>Meta Description</th>
+<td>Yes</td>
+<td>The meta description length of your page is 137 characters.</td>
+<td>Most search engines will truncate meta descriptions to 160 characters.</td>
+</tr>
 <tr>
 <th><b>Meta Keyword</b></th>
 <td>Meta keywords not Found : Google Does not accept meta keywords any more.</td><br>
