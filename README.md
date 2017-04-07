@@ -23,15 +23,20 @@
 <td>Most search engines will truncate meta descriptions to 160 characters.</td>
 </tr>
 <tr>
-<th><b>Meta Keyword</b></th>
-<td>Meta keywords not Found : Google Does not accept meta keywords any more.</td><br>
+<td>Meta Keyword</td>
+<td>Yes</td>
+<td>Meta keywords not Found</td>
+<td>Google Does not accept meta keywords any more.</td>
 </tr>
 <tr>
-<th><b> Headings Status</b></th>
+<td>(h1)Headings Status</td>
+<td>Yes</td>
 <td>Your page contains H1 headings. Their contents are listed below:
 ⟩⟩ Need health insurance?
 ⟩⟩ Sign up for updates & reminders from HealthCare.gov
-<br>Your page contains H2 headings. Their contents are listed below:
+<td>(h2)Headings Status</td>
+<td>Yes</td>
+<td>Your page contains H2 headings. Their contents are listed below:
 ⟩⟩ 1095 & TAX INFO
 ⟩⟩ GET 2016 EXEMPTIONS
 ⟩⟩ USE YOUR COVERAGE
@@ -40,14 +45,15 @@
 ⟩⟩ HealthCare.gov Blog
 ⟩⟩ Footer
 ⟩⟩ Your information contains error(s):
-⟩⟩ Your information contains error(s):<br>
-</td><br>
+⟩⟩ Your information contains error(s):
+</td>
 </tr>
 <tr>
-<th><b>Robots.txt Test</b></th>
-<td> site use a "robots.txt" file:<br>
-http://healthcare.gov/robots.txt
-</td><br>
+<td>Robots.txt Test</td>
+<td>Yes</td>
+<td> site use a "robots.txt" file:
+-> http://healthcare.gov/robots.txt
+</td>
 </tr>
 <tr>
 <th><b>Sitemap Test	</b></th>
