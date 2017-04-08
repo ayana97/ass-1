@@ -3,7 +3,7 @@
 <body>
 <style>
 body {
-back-groundimage: url("http://nammakpsc.com/wp/wp-content/uploads/2015/03/health-care.jpg");
+back-groundimage: url("health.html");
 }
 </style>
 <h3><b>HEALTH CARE</b><h3>
