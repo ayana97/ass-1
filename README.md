@@ -1,8 +1,12 @@
 #SEO
 <html>
 <body>
-<backgroundimage>http://nammakpsc.com/wp/wp-content/uploads/2015/03/health-care.jpg</backgroundimage>
-<h1><b>HEALTH CARE</b><h1>
+<style>
+body {
+back-groundimage: url("http://nammakpsc.com/wp/wp-content/uploads/2015/03/health-care.jpg");
+}
+</style>
+<h3><b>HEALTH CARE</b><h3>
 <table>
 <tr>
 <th><b>Check</b></th>
