@@ -1,7 +1,7 @@
 #SEO
 <html>
 <body style="background-color:powderblue;">
-<h3><b>HEALTH CARE</b><h3>
+<h2><i><b><u>HEALTH CARE</u></b></i><h2>
 <table>
 <tr>
 <th><b>Check</b></th>
@@ -11,7 +11,7 @@
 </tr>
 <tr>
 <td><b>Page Title</b></td>
-<td>no</td>
+<td>No</td>
 <td>The Page title length of your page is 71 characters. Most search engines will truncate Page title to 65 characters.</td>
 <td>The page title should limit to 65 character.</td>
 </tr>
@@ -30,23 +30,23 @@
 <tr>
 <td><b>(h1)Headings Status</b></td>
 <td>Yes</td>
-<td>Your page contains H1 headings. Their contents are listed below:
-⟩⟩ Need health insurance?
+<td>Your page contains H1 headings. Their contents are listed below:<br>
+⟩⟩ Need health insurance?<br>
 ⟩⟩ Sign up for updates and reminders from HealthCare.gov</td>
 </tr>
 <tr>
 <td><b>(h2)Headings Status</b></td>
 <td>Yes</td>
-<td>Your page contains H2 headings. Their contents are listed below:
-⟩⟩ 1095 and TAX INFO
-⟩⟩ GET 2016 EXEMPTIONS
-⟩⟩ USE YOUR COVERAGE
-⟩⟩ CONTACT US
-⟩⟩ Get important news and updates
-⟩⟩ HealthCare.gov Blog
-⟩⟩ Footer
-⟩⟩ Your information contains error(s):
-⟩⟩ Your information contains error(s):
+<td>Your page contains H2 headings. Their contents are listed below:<br>
+⟩⟩ 1095 and TAX INFO<br>
+⟩⟩ GET 2016 EXEMPTIONS<br>
+⟩⟩ USE YOUR COVERAGE<br>
+⟩⟩ CONTACT US<br>
+⟩⟩ Get important news and updates<br>
+⟩⟩ HealthCare.gov Blog<br>
+⟩⟩ Footer<br>
+⟩⟩ Your information contains error(s):<br>
+⟩⟩ Your information contains error(s):<br>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@
 <tr>
 <td><b>Sitemap Test	</b></td>
 <td>Yes</td>
-<td>We've found 1 sitemaps files for your website:
+<td>We've found 1 sitemaps files for your website:<br>
 ⟩⟩ https://www.healthcare.gov/sitemap.xml</td>
 </tr>
 <tr>
@@ -76,10 +76,10 @@
 <tr>
 <td><b>Image Alt Test	</b></td>
 <td>Yes</td>
-<td>Your webpage has 3 'img' tags and all of them has the required 'alt' attribute.
-⟩⟩ /images/logo.png
-⟩⟩ /images/logo@2x.png
-⟩⟩ /assets/men-reviewing-tax-form.jpg
+<td>Your webpage has 3 'img' tags and all of them has the required 'alt' attribute.<br>
+⟩⟩ /images/logo.png<br>
+⟩⟩ /images/logo@2x.png<br>
+⟩⟩ /assets/men-reviewing-tax-form.jpg<br>
 </td>
 </tr>
 <tr>
