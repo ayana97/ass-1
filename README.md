@@ -1,11 +1,6 @@
 #SEO
 <html>
-<body>
-<style>
-body {
-back-groundimage: url("https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi21v2Oi5TTAhVBK48KHbRHBZgQjRwIBw&url=http%3A%2F%2Fwww.guidewell.com%2Ffile%2Fimagination-health-carejpg&bvm=bv.152174688,d.c2I&psig=AFQjCNFZ_HoUJt8xGXzY7RthlS3ga7PyeQ&ust=1491714317377503");
-}
-</style>
+<body style="background-color:powderblue;">
 <h3><b>HEALTH CARE</b><h3>
 <table>
 <tr>
