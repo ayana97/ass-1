@@ -6,7 +6,7 @@
 <col width="50">
 <col width="50">
 <col width="130">
-<col width="150">
+<col width="50">
 <tr>
 <th><b>Check</b></th>
 <th><b>Status</b></th>
