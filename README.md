@@ -1,12 +1,7 @@
-#SEO
 <html>
 <body style="background-color:powderblue;">
 <h2><i><b><u>HEALTH CARE</u></b></i><h2>
 <table>
-<col width="50">
-<col width="50">
-<col width="130">
-<col width="50">
 <tr>
 <th><b>Check</b></th>
 <th><b>Status</b></th>
