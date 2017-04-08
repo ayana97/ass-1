@@ -133,6 +133,16 @@
 <td>Warning! Your web page is not using html compression.</td>
 <td>It is recommended to use html compression e-g: gzip compression</td>
 </tr>
+<tr>
+<th><b>SEO Score</b></th>
+<th><b>Grade</b></th>
+<th><b>Certificate</b></th>
+</tr>
+<tr>
+<td>54</td>
+<td>http://smallseotools.com/imgs/badge-bronze-xs.png</td>
+<td><a href="http://smallseotools.com/website-seo-score-checker/" target="_blank"><img src="http://smallseotools.com/imgs/badge-bronze-xs.png" alt="seo checker"/></a></td>
+</tr>
 </table>
 </body>
 </html>
