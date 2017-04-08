@@ -33,7 +33,9 @@
 <td>Yes</td>
 <td>Your page contains H1 headings. Their contents are listed below:
 ⟩⟩ Need health insurance?
-⟩⟩ Sign up for updates and reminders from HealthCare.gov
+⟩⟩ Sign up for updates and reminders from HealthCare.gov</td>
+</tr>
+<tr>
 <td><b>(h2)Headings Status</b></td>
 <td>Yes</td>
 <td>Your page contains H2 headings. Their contents are listed below:
